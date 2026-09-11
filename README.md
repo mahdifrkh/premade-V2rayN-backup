@@ -8,5 +8,5 @@ First step: Download and install V2rayN From this link [V2rayN](https://github.c
 Second step: Follow this trail Setting > Backup and Restore > Restore from local
 Third step: upload the Backup file 
 <h3>DONE!</h3> 
-Enjoy and Share if you where pleased.
+Enjoy and Share if you were pleased.
 <h3>Note:</h3> the amount of configs can be confusing, Ping all and then remove the invalid ones using the shortcut in right mouse click
