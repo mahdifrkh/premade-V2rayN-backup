@@ -4,7 +4,7 @@
 <p><h3>What is it: </h3> a customized V2rayN backup file i made that allows you to have access to already existed v2ray config scripts on GitHub, special thanks to all the great people that helped on those projects.
 </p>
 <h3>How to use: </h3>
-First step: Download and install V2rayN From this link ***. (Thank you so much for wonderful application)
+First step: Download and install V2rayN From this link [V2rayN](https://github.com/2dust/v2rayn) (Thank you so much for wonderful application)
 Second step: Follow this trail Setting > Backup and Restore > Restore from local
 Third step: upload the Backup file 
 <h3>DONE!</h3> 
